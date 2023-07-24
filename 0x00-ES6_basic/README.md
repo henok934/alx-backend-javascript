@@ -1,0 +1,1 @@
+JavaScript developers use the language to write server-side code. This code is in charge of an application's server-side logic, including database interactions. Node. js is a JavaScript runtime environment that allows JavaScript code to be executed outside of a web browser.
