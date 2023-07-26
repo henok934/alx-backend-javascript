@@ -1,0 +1,1 @@
+promise is an object that represents the eventual completion (or failure) of an asynchronous operation and its resulting value. Promises provide a way to handle asynchronous operations without resorting to callback functions, which can lead to "callback hell" and make the code difficult to read and maintain.
