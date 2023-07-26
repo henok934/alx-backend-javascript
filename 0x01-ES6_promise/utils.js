@@ -3,7 +3,7 @@ export function uploadPhoto() {
     status: 200,
     body: 'photo-profile-1',
   });
- }
+}
 
 export function createUser() {
   return Promise.resolve({
