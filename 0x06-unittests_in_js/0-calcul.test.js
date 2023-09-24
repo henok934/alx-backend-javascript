@@ -2,11 +2,11 @@ const assert = require('assert');
 const calculateNumber = require('./0-calcul');
 
 describe('calculateNumber', function () {
-  it('should return the sum of rounded numbers', function () {
-    assert.strictEqual(calculateNumber(4.2,2.6), 7);
+  it('should return the correct sum for 4.2 and 2.6', function () {
+    assert.strictEqual(calculateNumber(4.2, 2.6), 7);
   });
 
-  it('rounded two numbers and show the sum of that number', function () {
-    assert.strictEqual(calculateNumber(4.2,7.6), 12);
+  it('should return the correct sum for 4.2 and 7.6', function () {
+    assert.strictEqual(calculateNumber(4.2, 7.6), 12);
   });
 });
